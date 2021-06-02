@@ -10,9 +10,9 @@ library(rasterVis)
 library(classInt)
 library(dismo)
 library(centiserve)
-library(FactoMineR)
 
 
+# Prepared data at voronoi level for Senegal
 v <- read.csv("Data/vorInd.csv")
 
 
